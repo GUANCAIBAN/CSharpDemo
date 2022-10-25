@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs/CSharpDemo
+/CSharpDemo/bin/Debug/netcoreapp3.1
+/CSharpDemo/obj
